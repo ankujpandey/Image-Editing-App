@@ -50,6 +50,6 @@ After Croping
 
 <hr>
 
-<center>
-    Thank You !! For Visiting.
-</center>
+<h1 align="center"> Thank You !! For Visiting.</h1>
+   
+
