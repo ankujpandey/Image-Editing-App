@@ -49,6 +49,7 @@ After Croping
 ![Screenshot 2022-07-25 025456](https://user-images.githubusercontent.com/82190152/180666617-3e46b1f6-c4c5-435d-be0c-9d1660497a4a.png)
 
 <hr>
-  <center>
+
+<center>
     Thank You !! For Visiting.
-  </center>
+</center>
