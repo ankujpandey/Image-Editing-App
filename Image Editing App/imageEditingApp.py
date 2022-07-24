@@ -613,3 +613,9 @@ display = Label(frame_3,bg="#6A5A5D")
 display.place(anchor='center', relx=0.5, rely=0.5)
 
 window.mainloop()
+
+#       ++++++++++++++++++++++++++++++++
+#       +                              +
+#       +    Coder: Ankuj Pandey       +
+#       +                              +
+#       ++++++++++++++++++++++++++++++++
