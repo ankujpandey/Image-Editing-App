@@ -1,4 +1,4 @@
-# Image-Editing-App
+# Image Editing App
 A Basic Image editing app with a good and easy user interface.
 
 ![Screenshot 2022-07-25 024842](https://user-images.githubusercontent.com/82190152/180666581-ccd30f12-ce0d-4d93-b7ca-1b08518c6d0a.png)
