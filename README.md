@@ -30,6 +30,9 @@ Cartoon Filter
 ## Image Crop
 ![Screenshot 2022-07-25 031513](https://user-images.githubusercontent.com/82190152/180667070-f082edf6-43a4-46b9-8c19-4b1104058ae4.png)
 
+After Croping
+![Screenshot 2022-07-25 031532](https://user-images.githubusercontent.com/82190152/180667912-517790cb-1f04-438c-ab5b-c78a5ed23af3.png)
+
 ## Vertical Flip
 ![Screenshot 2022-07-25 025259](https://user-images.githubusercontent.com/82190152/180666608-7806cf23-e610-4064-aba9-963168fa6dae.png)
 
@@ -49,4 +52,3 @@ Cartoon Filter
 
 <h3 align="center"> Thank You !! For Visiting.</h3>
    
-
