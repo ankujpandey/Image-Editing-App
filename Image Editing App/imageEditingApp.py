@@ -13,7 +13,6 @@ from matplotlib import image
 import numpy as np
 
 
-
 window = Tk()
 window.title('Image Editor')
 
